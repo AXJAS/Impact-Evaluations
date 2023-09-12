@@ -130,7 +130,7 @@ be transformed before going onto the final steps where the results are
 used to inform business decisions.
 
 ![Graphical user interface, diagram, application Description
-automatically generated](media/Data Engineering Project (2023)/image1.png)
+automatically generated](media/image1.png)
 
 (*2. The Data Engineering Lifecycle*, no date)
 
@@ -162,7 +162,7 @@ typically contain foreign keys that relate to the dimensional tables.
 
 A basic overview of the pipeline would be.
 
-![Basic ETL diagram. ](media/Data Engineering Project (2023)/image2.png)
+![Basic ETL diagram. ](media/image2.png)
 
 To keep permissions simple the pipeline will be contained within GCP, a
 cloud computing platform (*Cloud Computing Services*, no date), and
