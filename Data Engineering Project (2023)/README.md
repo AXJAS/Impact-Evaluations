@@ -23,11 +23,16 @@ Currently, there is a still a manual blocker for capacity updates, although once
 Additionally, the user interface of a spreadsheet has some limitations in terms of scalability.
 There is a need for further work to streamline the UI and reduce friction.
 One potential solution being explored is Google AppSheet, which offers a low-code approach and seamless integration with Google Cloud.
-This approach aims to ensure that further technical debt is avoided.
+This approach aims to ensure that further technical debt is avoided.(Google AppSheet | Build apps with no code, no date)
 
 ## Conclusion
 
 In conclusion, this data engineering project has had a significant positive impact on our company's capacity management processes, allowing for more frequent and efficient updates. However, it has also highlighted the need for continued improvements in automation and user interface design to fully leverage the project's potential benefits.
+
+#  Bibliography
+Google AppSheet | Build apps with no code (no date) AppSheet. Available at: https://about.appsheet.com/home/
+ChatGPT (OpenAI) assisted in content restructuring. Available at: https://www.openai.com/research/chatgpt
+
 
 
 # Original Documentation
