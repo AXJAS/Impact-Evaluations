@@ -29,7 +29,7 @@ This approach aims to ensure that further technical debt is avoided.(Google AppS
 
 In conclusion, this data engineering project has had a significant positive impact on our company's capacity management processes, allowing for more frequent and efficient updates. However, it has also highlighted the need for continued improvements in automation and user interface design to fully leverage the project's potential benefits.
 
-#  Bibliography
+##  Bibliography
 Google AppSheet | Build apps with no code (no date) AppSheet. Available at: https://about.appsheet.com/home/
 ChatGPT (OpenAI) assisted in content restructuring. Available at: https://www.openai.com/research/chatgpt
 
